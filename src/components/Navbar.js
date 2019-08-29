@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="nav-wrapper red darken-3">
       <div className="container">
-        <a className="brand-logo">Poke' Times</a>
+        <span className="brand-logo">Poke' Times</span>
 
         <ul className="right">
           <li>
